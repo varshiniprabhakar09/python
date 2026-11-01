@@ -10,22 +10,22 @@ section:2
 
 #TOPICS
 
-1.University Scholarship Allocation
+1. Traffic Violation Penalty Calculator
 
-2.Progressive Electricity Billing
+2.Laboratory Chemical Inventory Validation
 
-3.Hospital Billing and Patient Classification
+3.Student Timetable Conflict Detection
 
-4.Employee Payroll and Deduction Analysis
+4.Courier Charge Optimization
 
-5.Multi-Plan Telecommunications Cost Optimization
+5. Progressive Water Tariff Analysis
 
-6.Railway Fare and Reservation Calculator
+6.Nested Loop Examination Seating Generator
 
-7.Retail Billing with Multiple Discount Rules
+7.Advanced Numeric Pattern Generator
 
-8.Manufacturing Cost and Profitability Analysis
+8.Repeated Transaction Detection
 
-9.Multi-Currency Travel Budget Analysis
+9. Password Policy Validation Engine
 
-10.Campus Event Financial Planning
+10.Student Email and Identifier Validation
